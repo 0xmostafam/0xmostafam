@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Elbadry</h1>
-<h3 align="center">I am a CS graduate from Cairo University, looking for a software engineer role with strong command in PHP, Laravel, Java, Nodejs, Python, Bash, and Linux. I currently work as a Backend Developer in beneFIT with Laravel. I am a continuous learner of new backend technologies, strategies, and tools.</h3>
+<h3 align="center">I am a CS graduate from Cairo University, looking for a software engineer role with strong command in Java Spring, Nodejs, Python, Bash, and Linux. I currently work as a Backend Developer in Robusta Studio. I am a continuous learner of new backend technologies, strategies, and tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xmostafam&label=Profile%20views&color=0e75b6&style=flat" alt="0xmostafam" /> </p>
 
